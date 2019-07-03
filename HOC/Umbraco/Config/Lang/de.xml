@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <language alias="de" intName="German (DE)" localName="Deutsch (DE)" lcid="7" culture="de-DE">
   <creator>
     <name>The Umbraco community</name>
@@ -580,9 +580,9 @@ Wenn Sie sich für Runway entscheiden, können Sie optional Blöcke nutzen, die 
 		  vom Benutzer <strong>'%3%'</strong> ausgeführt wurde.
 	  </p>
 		  <div style="margin: 8px 0; padding: 8px; display: block;">
-				<br />
+				<br/>
 				<a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEARBEITEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp;
-				<br />
+				<br/>
 		  </div>
 		  <p>
 			  <h3>Zusammenfassung der Aktualisierung:</h3>
@@ -592,12 +592,12 @@ Wenn Sie sich für Runway entscheiden, können Sie optional Blöcke nutzen, die 
 			 </p>
 
 		  <div style="margin: 8px 0; padding: 8px; display: block;">
-				<br />
+				<br/>
 				<a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BEARBEITEN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp;
-				<br />
+				<br/>
 		  </div>
 
-		  <p>Einen schönen Tag wünscht<br /><br />
+		  <p>Einen schönen Tag wünscht<br/><br/>
 			  Ihr freundlicher Umbraco-Robot
 		  </p>
 ]]></key>
