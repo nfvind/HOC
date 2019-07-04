@@ -463,90 +463,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\cache\d\d\1\8\d\b\dd18dbb821c1d2b1c2f87d4e8662d72244eb1052.jpg" />
-    <Content Include="App_Data\cache\e\a\e\b\b\5\eaebb5f4462ed9cbf538aeef287b08a9fadfff80.jpg" />
     <Content Include="App_Data\Logs\UmbracoTraceLog.OMNIHUB.20190703.json" />
-    <Content Include="App_Data\Models\all.dll.path" />
-    <Content Include="App_Data\Models\models.hash" />
     <Content Include="App_Data\packages\installedPackages.config" />
-    <Content Include="App_Data\TEMP\ClientDependency\OMNIHUB-4ac49f252fb809f1bfd8466a04585f38-map.xml" />
-    <Content Include="App_Data\TEMP\DistCache\LMW3SVC2ROOT-lastsynced.txt" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\External\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\External\segments_3" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\External\_0.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\External\_0_2.del" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\External\_1.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\segments_3" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\_0.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\_0_2.del" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Internal\_1.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Members\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\Members\segments_1" />
-    <Content Include="App_Data\TEMP\NuCache\NuCache.Content.db" />
-    <Content Include="App_Data\TEMP\NuCache\NuCache.Media.db" />
-    <Content Include="App_Data\TEMP\TypesCache\umbraco-types.OMNIHUB.hash" />
-    <Content Include="App_Data\TEMP\TypesCache\umbraco-types.OMNIHUB.list" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\05641DED852DFB23B5061FC2CE8E5279\paypal_base.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\08BDD7366FF00C375D5C393A5E6BFC59\UCommerce.Transactions.Payments.Ogone.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\0B622119F63D54F8534C76375CE82E5C\ICSharpCode.NRefactory.CSharp.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\1288316830C34B11D342F74AF567C561\NHibernate.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\179E7321F8BACC32B2BBAC8CF02613CA\log4net.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\1801B6C7FC8E1B4BC57C51DEF35A7333\UCommerce.Transactions.Payments.Netaxept.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\192BC118C87A90A2BCE16D543C343268\Esent.Interop.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\1BAF286061EC5C5D17853A127A5169C8\UCommerce.Transactions.Payments.WorldPay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\21A856241014FAF4CB3E6B122458A99D\Jint.Raven.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\258AA6A41F9A9034A29209E7CDD0EE5D\UCommerce.Transactions.Payments.Schibsted.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\29EC854A45B592351451FDE04AABCD6C\UCommerce.Transactions.Payments.MultiSafepay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\2FA683E95693240980A2EECB850D6A1B\UCommerce.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\3493809337D7726A1846D01FF0027522\UCommerce.Transactions.Payments.Ideal.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\3CED54B0E85E476448F093F2132FDE70\AngleSharp.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\4173D2FF62CCEFD13E666F4520BDAF98\UCommerce.Transactions.Payments.SagePay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\426DA7DE74396FAEFA26155021DE1E8B\Raven.Abstractions.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\456159BB065013E470C3935C3E0BAF9C\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\46A67A6D52CCD0B86027A1A7CA923258\Lucene.Net.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\495238F94198BD44C0DCBA759B1666B0\NHibernate.Caches.SysCache.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\4C025929EA914C375CA123704513A039\UCommerce.RavenDB25.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\4ED59BFB299335C960D2057F584E9FD0\UCommerce.Admin.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\5AF30A8D40E9B69689063014A5A3A5B1\Microsoft.Web.XmlTransform.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\5B3F02A5A64DA01EA41F0450FD524A45\Iesi.Collections.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\5D1AD63B8D152ECE13D357D5F5182432\UCommerce.Transactions.Payments.Payer.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\664C318893F73ECD7DD7C79CC79E8136\Braintree-2.22.0.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\6C35F9AAD3A7B845F4CAB3AFE5D06DD3\UCommerce.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\70374EF60B0F6F72C85E5F21A72CA543\UCommerce.Transactions.Payments.Adyen.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\7912E5E19577F1A5C98BEEAE990C0F52\Raven.Client.Embedded.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\82B2C4B68634F92D783170D97159AC12\UCommerce.Sanitization.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\848565363502BFE52B05B0C1FE16B3D4\UCommerce.Transactions.Payments.EPay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\8EBD7B9BDC1ED8A174825169597964FD\Raven.Client.Lightweight.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\954327103B879605C733334A37C6A1FD\UCommerce.Transactions.Payments.EWay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\9B0855A5A9F2C74D58EFE1C06B4D9ACF\UCommerce.Transactions.Payments.Quickpay.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\A04666E9CAC39B43703F8DACDC89C5E8\UCommerce.Transactions.Payments.SecureTrading.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\A120604CED376590F534A6C712B7C232\Castle.Core.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\B39EF0A84A9C5D2D23ABDDE21DDB0C03\UCommerce.Transactions.Payments.GlobalCollect.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\B684FC78CF707769DED2AFFAD77BF0D5\EPPlus.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\B871070066553653C4F1FB1D1589D2DF\ICSharpCode.NRefactory.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\C1CB03D625874536CD435EB6DA87E6AA\Raven.Abstractions.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\CB122964934E7534D856999A7557B629\UCommerce.Transactions.Payments.Braintree.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\CB1A2B6CA0A38FD27601DEC7191B93E2\Castle.Windsor.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\CBD6029ABAA8E977D3B7435C6F70DD0E\Newtonsoft.Json.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\CBD7D79B268E90FABDB51E1D723E73EA\FluentNHibernate.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\D1927578CAF086CADEA0AA39195970B5\Spatial4n.Core.NTS.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\D3219F7ED2A21ABF0E5E122E375F4EC4\Raven.Client.Embedded.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\D39F49113E23386A10F6DBE2EFB1201F\UCommerce.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\D57621236816776FFDDC2DD20A9CA95F\UCommerce.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\D6E813A393F40C7375052A15E940BC67\CsvHelper.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\DA3B327AAEB29D6310612C72821E7A4D\Lucene.Net.Contrib.Spatial.NTS.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\DD9BEF6354406614844B2C03B97CF91A\Raven.Database.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\DE29FB7531D96F839F0D3DCA47AADD60\UCommerce.ExchangeRateAPICurrencyConversion.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\DF2F21CF59946201A21F666F6AAC149B\HtmlSanitizer.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\DF704AC544854C9795BFDFEBE58C8AFD\UCommerce.Admin.resources.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\E02DA37C681DCC34EB23EA92D59C06FC\UCommerce.Transactions.Payments.PayEx.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\E406743603A870BFBCEC69EC1A004C03\UCommerce.Transactions.Payments.Dibs.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\E4CCE59DA5CA63492E35228732303867\UCommerce.Transactions.Payments.Authorizedotnet.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\E889A74132D83338E1EEE5B704484843\Infralution.Licensing.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\F414A2A49230771C28A0375F392A7B48\Raven.Database.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\FE239951513BBB11231E6DEA17F64F4B\Raven.Client.Lightweight.dll" />
-    <Content Include="App_Data\TEMP\uCommerceAppsAssemblyShadowCopy\FF80278DDA616821ADD06863A6A86B44\UCommerce.Transactions.Payments.PayPal.dll" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.controller.js" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.html" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.resource.js" />
@@ -3767,11 +3685,33 @@
     <Content Include="Umbraco\Views\users\views\users\users.html" />
     <Content Include="Umbraco\Views\users\views\user\details.html" />
     <Content Include="Views\Blog.cshtml" />
+    <Content Include="Views\Blogpost.cshtml" />
+    <Content Include="Views\contact.cshtml" />
+    <Content Include="Views\contentPage.cshtml" />
+    <Content Include="Views\home.cshtml" />
+    <Content Include="Views\MacroPartials\FeaturedProducts.cshtml" />
+    <Content Include="Views\MacroPartials\LatestBlogposts.cshtml" />
+    <Content Include="Views\master.cshtml" />
+    <Content Include="Views\Partials\CategoryLinks.cshtml" />
+    <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
+    <Content Include="Views\Partials\Grid\Bootstrap3.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Base.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Embed.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Macro.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Media.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Rte.cshtml" />
+    <Content Include="Views\Partials\Grid\Editors\Textstring.cshtml" />
+    <Content Include="Views\Partials\Navigation\SubNavigation.cshtml" />
+    <Content Include="Views\Partials\Navigation\TopNavigation.cshtml" />
+    <Content Include="Views\Partials\SectionHeader.cshtml" />
+    <Content Include="Views\people.cshtml" />
+    <Content Include="Views\Person.cshtml" />
+    <Content Include="Views\Product.cshtml" />
+    <Content Include="Views\Products.cshtml" />
+    <Content Include="Views\Web.config" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Data\Models\all.generated.cs" />
-    <Compile Include="App_Data\Models\models.generated.cs" />
     <Compile Include="App_GlobalResources\Admin.da.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -3977,31 +3917,8 @@
     <Content Include="App_Plugins\uCommerceIcons\package.manifest" />
     <Content Include="App_Plugins\uCommercePicker\package.manifest" />
     <Content Include="App_Plugins\uCommerceTreeTitle\package.manifest" />
+    <Content Include="App_Data\Logs\UmbracoTraceLog.OMNIHUB.20190704.json" />
     <None Include="packages.config" />
-    <Content Include="Views\Web.config" />
-    <Content Include="Views\Partials\Grid\Editors\Textstring.cshtml" />
-    <Content Include="Views\Partials\Grid\Editors\Rte.cshtml" />
-    <Content Include="Views\Partials\Grid\Editors\Media.cshtml" />
-    <Content Include="Views\Partials\Grid\Editors\Macro.cshtml" />
-    <Content Include="Views\Partials\Grid\Editors\Embed.cshtml" />
-    <Content Include="Views\Partials\Grid\Editors\Base.cshtml" />
-    <Content Include="Views\Partials\Grid\Bootstrap3.cshtml" />
-    <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
-    <Content Include="Views\Blogpost.cshtml" />
-    <Content Include="Views\contact.cshtml" />
-    <Content Include="Views\contentPage.cshtml" />
-    <Content Include="Views\home.cshtml" />
-    <Content Include="Views\master.cshtml" />
-    <Content Include="Views\people.cshtml" />
-    <Content Include="Views\Person.cshtml" />
-    <Content Include="Views\Product.cshtml" />
-    <Content Include="Views\Products.cshtml" />
-    <Content Include="Views\MacroPartials\FeaturedProducts.cshtml" />
-    <Content Include="Views\MacroPartials\LatestBlogposts.cshtml" />
-    <Content Include="Views\Partials\CategoryLinks.cshtml" />
-    <Content Include="Views\Partials\SectionHeader.cshtml" />
-    <Content Include="Views\Partials\Navigation\SubNavigation.cshtml" />
-    <Content Include="Views\Partials\Navigation\TopNavigation.cshtml" />
     <Content Include="Umbraco\assets\fonts\helveticons\helveticons.eot" />
     <Content Include="Umbraco\assets\fonts\helveticons\helveticons.ttf" />
     <Content Include="Umbraco\assets\fonts\helveticons\helveticons.woff" />
@@ -4391,7 +4308,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\TEMP\Install\" />
     <Folder Include="bin\bin\de\" />
   </ItemGroup>
   <ItemGroup>
