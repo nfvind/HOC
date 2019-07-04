@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AACI,IADA,CACA,SAAS,CAAC;EACN,qBAAqB,EAAE,KAAK;CAC/B",
-    "sources": [
-        "HOC-style.scss"
-    ],
-    "names": [],
-    "file": "HOC-style.css"
-}

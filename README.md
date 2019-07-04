@@ -1,2 +1,0 @@
-# HOC
- HOC Dev assignment
